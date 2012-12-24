@@ -25,4 +25,4 @@ rake db:create
 rake db:migrate
 rake db:seed
 rake db:test:prepare
-rake
+rake && echo -e "Looks good! Now run\n\n. ~/.rvm/scripts/rvm\ncd growstuff\n"
