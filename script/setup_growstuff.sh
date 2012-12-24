@@ -1,4 +1,5 @@
 #!/bin/bash
+# vim: sw=2
 
 if [ $# -lt 1 ]; then
   echo "Usage: $0 [GitHub username]"
